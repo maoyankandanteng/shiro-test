@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/face-demo/face-demo.iml" filepath="$PROJECT_DIR$/face-demo/face-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jasper-springboot/jasper-springboot.iml" filepath="$PROJECT_DIR$/jasper-springboot/jasper-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-producer/rabbitmq-producer.iml" filepath="$PROJECT_DIR$/rabbitmq-producer/rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-springboot/rabbitmq-springboot.iml" filepath="$PROJECT_DIR$/rabbitmq-springboot/rabbitmq-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro_demo/shiro_demo.iml" filepath="$PROJECT_DIR$/shiro_demo/shiro_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro_springboot/shiro_springboot.iml" filepath="$PROJECT_DIR$/shiro_springboot/shiro_springboot.iml" />
+    </modules>
+  </component>
+</project>
